@@ -34,6 +34,6 @@
     "vue": "^2.3.3"
   },
   "peerDependencies": {
-    "highlight.js": "^9"
+    "highlight.js": "^9 || ^11.0.0"
   }
 }
